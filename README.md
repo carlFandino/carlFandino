@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Carl Gian D Fandiño.
-- 👀 I’m interested in Programming/Coding.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming/Coding (usually back-end).
 - 📫 How to reach me Just inbox me on gmail giancarl.fandino@gmail.com
+- Portfolio (https://carlfandino.pythonanywhere.com)
 
 <!---
 carlFandino/carlFandino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
