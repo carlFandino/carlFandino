@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Carl Gian D Fandiño.
-- 👀 I’m interested in Programming/Coding (usually back-end).
-- 📫 How to reach me Just inbox me on gmail giancarl.fandino@gmail.com
 
 <!---
 carlFandino/carlFandino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
